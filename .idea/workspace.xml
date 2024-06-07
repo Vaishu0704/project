@@ -1,21 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fc7753e-9ff5-4e03-af60-de34a1aaee2b" name="Changes" comment="" />
+    <list default="true" id="7fc7753e-9ff5-4e03-af60-de34a1aaee2b" name="Changes" comment="ex_05062024">
+      <change afterPath="$PROJECT_DIR$/ex_07062024/assignment1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab0010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab0011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab0012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab0013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab0014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab0015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab0016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab0017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/lab0018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vaishu0704&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vaishu0704/project.git&quot;,
+    &quot;accountId&quot;: &quot;acb4885d-f57f-41de-94da-8a2219108766&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2hM1lxmxeD8cDGVBOODsWP10xG3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.assignment1.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.lab001.executor": "Run",
+    "Python.lab0011.executor": "Run",
+    "Python.lab0012.executor": "Run",
+    "Python.lab0013.executor": "Run",
+    "Python.lab0014.executor": "Run",
+    "Python.lab0015.executor": "Run",
+    "Python.lab0016.executor": "Run",
+    "Python.lab0017.executor": "Run",
+    "Python.lab0018.executor": "Run",
+    "Python.lab002.executor": "Run",
+    "Python.lab003.executor": "Run",
+    "Python.lab004.executor": "Run",
+    "Python.lab005.executor": "Run",
+    "Python.lab006.executor": "Run",
+    "Python.lab007.executor": "Run",
+    "Python.lab008.executor": "Run",
+    "Python.lab009.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -32,6 +97,47 @@
       <option name="presentableId" value="Default" />
       <updated>1717389286822</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding">
+      <option name="closed" value="true" />
+      <created>1717389592978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717389592978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding">
+      <option name="closed" value="true" />
+      <created>1717389644911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717389644911</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ex_05062024">
+      <option name="closed" value="true" />
+      <created>1717560402148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717560402148</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding" />
+    <MESSAGE value="ex_05062024" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex_05062024" />
   </component>
 </project>
