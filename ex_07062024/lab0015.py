@@ -3,7 +3,7 @@ print(2*1)
 num=90
 print(f'the num is {num*2}')
 print(f'the num is {num*3}')
-#to create table numbera
+#to create table number
 num=4
 print(f'{num}*1={num*1}')
 print(f'{num}*2={num*2}')
